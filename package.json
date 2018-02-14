@@ -1,0 +1,19 @@
+{
+  "name": "deduper",
+  "version": "1.0.0",
+  "description": "attempt deduplicate datasets by a combination of values",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/immexerxez/deduper.git"
+  },
+  "author": "immexerxez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/immexerxez/deduper/issues"
+  },
+  "homepage": "https://github.com/immexerxez/deduper#readme"
+}
